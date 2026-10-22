@@ -166,9 +166,9 @@ It also reinforced the importance of examining missing values before interpretin
 
 ## Project files
 
-- [Read the final report PDF](./files/data602/final-report.pdf)
-- [View the final report in GitHub's PDF viewer](https://github.com/sandrai05/sandrai05.github.io/blob/main/files/data602/final-report.pdf)
-- [Download the presentation](./files/data602/presentation.pptx)
+- [Read the final report PDF](./files/files/data602/final-report.pdf)
+- [View the final report in GitHub's PDF viewer](https://github.com/sandrai05/sandrai05.github.io/blob/main/files/files/data602/final-report.pdf)
+- [Download the presentation](./files/files/data602/presentation.pptx)
 
 The final report includes the R code appendix. The page above summarizes the analysis; the PDF preserves the supplied report.
 
