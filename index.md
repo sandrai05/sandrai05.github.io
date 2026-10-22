@@ -2,11 +2,19 @@
 title: Homepage
 ---
 
-<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap;">
+<style>
+  .markdown-body > h1:first-child {
+    display: none;
+  }
+</style>
+
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 24px;">
   <img src="./assets/profile.jpg"
        alt="Sandra Igboanugo"
-       style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-  <h1 style="margin: 0;">Sandra Igboanugo</h1>
+       style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+  <h1 style="margin: 0; padding: 0; border: none;">
+    Sandra Igboanugo
+  </h1>
 </div>
 
 
