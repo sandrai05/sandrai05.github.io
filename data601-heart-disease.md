@@ -1,12 +1,9 @@
 ---
-layout: default
-title: "Reading the Signs: How Clinical Markers Relate to Heart Disease"
+# Reading the Signs
+## How Clinical Markers Relate to Heart Disease
 ---
 
 [Back to home](./)
-
-# Reading the Signs
-## How Clinical Markers Relate to Heart Disease
 
 **DATA 601: Working with Data and Visualization**  
 **University of Calgary | Fall 2026**  
@@ -204,7 +201,7 @@ Part 3 retained more hospitals and had higher observed recall than Part 2. Howev
 
 Useful next steps include selecting tree depth through cross-validation, comparing the results with logistic regression, and testing on a hospital excluded from training.
 
-[View the Part 3 notebook](./files/data601/part3.ipynb) | [Download the final report](./files/data601/final-report.docx)
+[View the Part 3 notebook](./files/data601/part3.ipynb) | [Read the final report](https://github.com/sandrai05/sandrai05.github.io/blob/main/files/data601/final-report.pdf)
 
 ## What this project taught us
 
