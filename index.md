@@ -3,7 +3,7 @@ title: Homepage
 ---
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap;">
-  <img src="./assets/profile.png"
+  <img src="./assets/profile.jpg"
        alt="Sandra Igboanugo"
        style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
   <h1 style="margin: 0;">Sandra Igboanugo</h1>
