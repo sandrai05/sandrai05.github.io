@@ -45,7 +45,7 @@ dataset to explore clinical measurements, build predictive
 models and investigate which markers were associated with
 heart disease.
 
-[Reading the Signs: How Clinical Markers Relate to Heart Disease](./data601-heart-disease.html)
+[Reading the Signs: How Clinical Markers Relate to Heart Disease](https://github.com/sandrai05/sandrai05.github.io/blob/main/data601-heart-disease.md)
 
 ### DATA 602: Statistical Data Analysis
 
