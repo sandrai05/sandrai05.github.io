@@ -55,13 +55,13 @@ We also resampled each group with replacement 5,000 times. The 2.5th and 97.5th 
 
 This analysis included 474 patients with disease and 391 without disease. Group standard deviations were similar: 24.02 and 23.61 bpm, supporting our use of a pooled t-test.
 
-![Maximum heart rate distributions with violin plots and boxplots](./assets/data602/figure-01.png)
+![Maximum heart rate distributions with violin plots and boxplots](./assets/assets/data602/figure-01.png)
 
 QQ plots showed relatively small departures from the reference lines. The group without disease had some left skew. Given the large group sizes, we treated inference about the difference in means as reasonably supported, subject to the sampling limitations discussed below.
 
-![Normal QQ plots of maximum heart rate by disease status](./assets/data602/figure-02.png)
+![Normal QQ plots of maximum heart rate by disease status](./assets/assets/data602/figure-02.png)
 
-![Histograms of maximum heart rate by disease status](./assets/data602/figure-03.png)
+![Histograms of maximum heart rate by disease status](./assets/assets/data602/figure-03.png)
 
 ### Results
 
@@ -74,7 +74,7 @@ The t-test gave **t = −12.61**, **863 degrees of freedom** and **p < 2.2 × 10
 | Pooled t-test | −23.74 to −17.34 bpm |
 | Bootstrap | −23.71 to −17.36 bpm |
 
-![Bootstrap distribution of the difference in mean maximum heart rate](./assets/data602/figure-05.png)
+![Bootstrap distribution of the difference in mean maximum heart rate](./assets/assets/data602/figure-05.png)
 
 Both intervals were entirely below zero and nearly identical. In this sample, the group with disease reached a substantially lower average maximum heart rate. This group comparison does not establish a diagnostic cutoff for an individual patient.
 
@@ -86,7 +86,7 @@ Of the 920 patients, 202 had no usable cholesterol reading. This left **346 pati
 
 The group standard deviations were approximately 60.6 and 55.8 mg/dl. Both distributions were right-skewed, but the sample sizes were large. We used a pooled t-test and compared its interval with the bootstrap interval.
 
-![Serum cholesterol distributions by disease status](./assets/data602/figure-07.png)
+![Serum cholesterol distributions by disease status](./assets/assets/data602/figure-07.png)
 
 ### Results
 
@@ -97,7 +97,7 @@ Mean cholesterol was approximately **254.0 mg/dl** in patients with disease and 
 | Pooled t-test | 5.32 to 22.38 mg/dl |
 | Bootstrap | 5.27 to 22.34 mg/dl |
 
-![Bootstrap distribution of the difference in mean cholesterol](./assets/data602/figure-09.png)
+![Bootstrap distribution of the difference in mean cholesterol](./assets/assets/data602/figure-09.png)
 
 Both intervals excluded zero. The direction of the difference was also positive at each of the three hospitals with usable data. However, the difference was small relative to variation within the groups, so their cholesterol distributions overlapped heavily.
 
@@ -116,7 +116,7 @@ This comparison included **474 patients with disease** and **391 without disease
 
 The cell counts were large enough to support a normal-approximation comparison of proportions, assuming independent observations.
 
-![Proportions with and without exercise-induced angina by disease status](./assets/data602/figure-14.png)
+![Proportions with and without exercise-induced angina by disease status](./assets/assets/data602/figure-14.png)
 
 ### Results
 
@@ -129,9 +129,9 @@ The two-proportion test gave **χ² = 185.93**, **1 degree of freedom** and **p 
 | Two-proportion test | 39.8 to 51.0 percentage points |
 | Bootstrap | 39.7 to 51.1 percentage points |
 
-![Bootstrap distribution of the difference in angina proportions](./assets/data602/figure-15.png)
+![Bootstrap distribution of the difference in angina proportions](./assets/assets/data602/figure-15.png)
 
-![Conventional and bootstrap confidence intervals for the angina comparison](./assets/data602/figure-16.png)
+![Conventional and bootstrap confidence intervals for the angina comparison](./assets/assets/data602/figure-16.png)
 
 The intervals closely agreed and were entirely above zero, supporting an association between disease status and exercise-induced angina in this sample.
 
