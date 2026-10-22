@@ -7,7 +7,7 @@
 
 **DATA 601: Working with Data and Visualization**  
 **University of Calgary | Fall 2026**  
-**Group project:** Ahmed Muhammad, Joy Umejiego and Sandra Igboanugo
+**Group project by:** Ahmed Muhammad, Joy Umejiego and Sandra Igboanugo
 
 Across three projects, we explored the UCI Heart Disease dataset, built a decision tree classifier and investigated which clinical markers were associated with heart disease. Each part built on the previous work, including revisiting decisions about missing data when we saw how much they affected the patients included in the analysis.
 
