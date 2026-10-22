@@ -10,7 +10,7 @@ title: "Detecting Heart Disease"
 
 **DATA 602: Statistical Data Analysis**  
 **University of Calgary | Fall 2026**  
-**Group project:** Ahmed Muhammad, Divine Samuel, Joy Umejiego and Sandra Igboanugo
+**Group project by:** Ahmed Muhammad, Divine Samuel, Joy Umejiego and Sandra Igboanugo
 
 We compared three clinical measurements between patients with and without heart disease: maximum heart rate during exercise, serum cholesterol and exercise-induced angina. For each comparison, we used a hypothesis test and compared its confidence interval with a bootstrap interval based on 5,000 resamples.
 
