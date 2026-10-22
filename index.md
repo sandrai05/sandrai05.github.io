@@ -41,7 +41,7 @@ hands-on projects in analytics, databases and statistical modelling.
 I am particularly interested in business systems, implementation,
 data integration and using analysis to support better decisions.
 
-## Master’s Portfolio
+## My Master’s Portfolio
 
 ### Master of Data Science and Analytics
 **University of Calgary | Fall 2026**
