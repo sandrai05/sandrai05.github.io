@@ -27,7 +27,7 @@ and finding practical ways to make processes better. I’m interested in using d
 
 ---
 
-## About Me
+## About Me 
 
 My experience has given me a close view of the challenges people
 face when systems, processes and information do not work well
