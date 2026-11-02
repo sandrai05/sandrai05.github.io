@@ -54,24 +54,55 @@ data integration and using analysis to support better decisions.
 ### Master of Data Science and Analytics
 **University of Calgary | Fall 2026**
 
-### DATA 601: Working with Data and Visualization
+## School Projects
 
-Across three group projects, we used the UCI Heart Disease
-dataset to explore clinical measurements, build predictive
-models and investigate which markers were associated with
-heart disease.
+### Preparing NorthCart for Black Friday
+**DATA 604: Working with Data at Scale | In progress**
 
-[Reading the Signs: How Clinical Markers Relate to Heart Disease](./data601-heart-disease.html)
+Investigating how cloud-based databases can support
+an e-commerce business during a Black Friday traffic spike.
+The project explores database architecture, scalability,
+data warehousing and real-time transaction processing,
+with a presentation, report and interactive demonstration.
 
-### DATA 602: Statistical Data Analysis
+### Understanding Health Outcomes with Multiple Regression
+**DATA 603: Statistical Modelling with Data | Initial planning**
 
-Using the UCI Heart Disease dataset, we compared maximum
-heart rate, cholesterol and exercise-induced chest pain
-between patients with and without heart disease. We used
-hypothesis tests and compared conventional confidence
-intervals with bootstrap intervals based on 5,000 resamples.
+A group project investigating relationships between
+multiple variables and a health outcome using linear
+regression. The research question, dataset variables and
+modelling approach are being finalized.
 
-[Detecting Heart Disease: A Comparative Statistical Analysis of Clinical Markers](./data602-heart-disease.html)
+### Detecting Heart Disease
+**DATA 602: Statistical Data Analysis | Completed**
+
+Compared maximum heart rate, cholesterol and
+exercise-induced chest pain between patients with and
+without heart disease. Used hypothesis tests and compared
+conventional confidence intervals with bootstrap intervals
+based on 5,000 resamples.
+
+[Explore the statistical analysis](./data602-heart-disease.html)
+
+### Reading the Signs: Clinical Markers and Heart Disease
+**DATA 601: Working with Data and Visualization | Completed**
+
+Across three connected group projects, explored the UCI
+Heart Disease dataset, built predictive models and
+investigated which clinical markers were associated
+with heart disease.
+
+[Explore the three-part project](./data601-heart-disease.html)
+
+## Industry Projects
+
+### Ozex: No-Code Automation and Analytics
+**Riipen Level UP | In progress**
+
+Participating in a project focused on automation and
+analytics for a parent-focused product. Current work
+involves clarifying requirements, confirming priorities
+and defining deliverables with the employer.
 
 ## Other Projects
 
@@ -83,8 +114,9 @@ studies that explain the problem, my approach and the results.
 Analyzed 40,000 insurance records to investigate claim patterns
 and identify high-value claims for further review.
 
-
 **Focus:** Data preparation, exploratory analysis and risk reporting.
+
+[Explore the project](./insurance-claims-risk.html)
 
 ### Advertising Technology Analysis
 Explored a dataset of more than 20,000 records to investigate
@@ -92,11 +124,27 @@ advertising performance and communicate findings.
 
 **Focus:** Data validation, performance analysis and visualization.
 
+[Explore the project](./advertising-technology.html)
+
 ### SQL and Business Reporting
 Used SQL and Excel to explore pizza sales and summarize revenue,
 product performance and ordering patterns.
 
 **Focus:** SQL queries, business metrics and reporting.
+
+[Explore the project](./pizza-sales.html)
+
+### Customer Churn Analysis with DAX and Power BI
+
+Analyzed 56,344 telecom customer records using Power Query
+and DAX. Created customer segments, calculated columns and
+over 15 measures to examine churn patterns across contracts,
+payment methods and service subscriptions.
+
+**Focus:** Data transformation, data modelling, DAX calculations
+and customer segmentation.
+
+[Explore the project](./customer-churn.html)
 
 *Project code, reports and dashboard previews will be linked here
 as each case study is published.*
@@ -106,12 +154,19 @@ as each case study is published.*
 **Programming and Querying**  
 Python, SQL and R
 
+**Databases and Query Platforms**  
+SQL Server, MySQL and BigQuery
+
 **Data Analysis**  
-Data cleaning, exploratory data analysis, statistical analysis
-and data validation
+Data cleaning, exploratory data analysis, statistical analysis,
+data validation and data modelling
 
 **Visualization and Reporting**  
-Power BI, Excel, Matplotlib and Seaborn
+Power BI, DAX, Power Query, Excel, Looker, Looker Studio,
+Matplotlib and Seaborn
+
+**Development Tools and Version Control**  
+Jupyter Notebook, Visual Studio Code, Git and GitHub
 
 **Systems and Processes**  
 API troubleshooting, requirements gathering, process improvement,
@@ -120,7 +175,6 @@ root cause analysis and technical documentation
 **Business Knowledge**  
 Financial services, payment processing, tax and benefits
 administration, and customer operations
-
 ## What I’m Working Towards
 
 I am developing the skills to connect business needs with
