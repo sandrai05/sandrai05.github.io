@@ -49,12 +49,10 @@ hands-on projects in analytics, databases and statistical modelling.
 I am particularly interested in business systems, implementation,
 data integration and using analysis to support better decisions.
 
-## My Master’s Portfolio
+## School Projects
 
 ### Master of Data Science and Analytics
 **University of Calgary | Fall 2026**
-
-## School Projects
 
 ### Preparing NorthCart for Black Friday
 **DATA 604: Working with Data at Scale | In progress**
@@ -93,6 +91,40 @@ investigated which clinical markers were associated
 with heart disease.
 
 [Explore the three-part project](./data601-heart-disease.html)
+
+### MBA Business Intelligence
+**Xavier University | 2013**
+
+Selected academic projects exploring business intelligence,
+competitive strategy, financial performance and the use
+of customer data. Project summaries and supporting work
+will be added as I review and prepare them for this portfolio.
+
+### SYSCO: Business Intelligence Rollout Analysis
+**Portfolio write-up coming soon**
+
+An analysis of business intelligence implementation,
+including organizational needs, adoption challenges
+and business value.
+
+### Strategy and Competitive Positioning
+**Portfolio write-up coming soon**
+
+An executive interview case study examining business
+strategy and competitive positioning.
+
+### Financial Statement Analysis: Macy’s
+**Portfolio write-up coming soon**
+
+An examination of financial statements to assess
+business performance and inform recommendations.
+
+### Customer Analytics: Business Value, Ethics and Trust
+**Portfolio write-up coming soon**
+
+An exploration of how organizations use customer data
+to create business value while addressing ethical
+questions and customer trust.
 
 ## Industry Projects
 
