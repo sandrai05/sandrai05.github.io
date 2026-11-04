@@ -4,6 +4,7 @@ title: Programmatic Advertising Analysis
 
 [← Back to homepage](./)
 
+# Programmatic Advertising Campaign Analysis
 
 Analyzed 20,749 synthetic advertising records using BigQuery
 and SQL to examine campaign spending, engagement, conversion
