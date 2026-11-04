@@ -151,11 +151,17 @@ and identify high-value claims for further review.
 
 [Explore the project](./insurance-claims-risk.html)
 
-### Advertising Technology Analysis
-Explored a dataset of more than 20,000 records to investigate
-advertising performance and communicate findings.
+### Programmatic Advertising Analysis
 
-**Focus:** Data validation, performance analysis and visualization.
+Analyzed 20,749 synthetic advertising records using
+BigQuery and SQL to investigate spending trends,
+format performance and conversion efficiency.
+Used CTEs and window functions to calculate cumulative
+spend and rank advertiser categories, with findings
+presented in Looker Studio.
+
+**Focus:** Data preparation, SQL analysis, KPI calculations
+and business reporting.
 
 [Explore the project](./advertising-technology.html)
 
