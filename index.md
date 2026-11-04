@@ -98,9 +98,6 @@ with heart disease.
 
 [Explore the three-part project](./data601-heart-disease.html)
 
-
-## Education
-
 ### MBA Business Intelligence
 **Xavier University | 2013**
 
@@ -195,6 +192,8 @@ and customer segmentation.
 
 *Project code, reports and dashboard previews will be linked here
 as each case study is published.*
+
+## Education
 
 ### Master of Data Science and Analytics
 **University of Calgary | In progress, expected December 2027**  
