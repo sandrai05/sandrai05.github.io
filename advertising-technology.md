@@ -135,48 +135,52 @@ charts, tables and written commentary.
 
 Introduces the project and reporting sections.
 
-![Report overview](Adtech_Campaign_Performance_Dashboard_2023_page-1.jpg)
+![Report overview](https://raw.githubusercontent.com/sandrai05/adtech-campaign-analysis/main/Adtech_Campaign_Performance_Dashboard_2023_page-1.jpg)
+
 
 ### Spend and Volume Trends
 
 Examines monthly spending, impressions, clicks and
 investment by advertising format.
 
-![Spend and volume trends](Adtech_Campaign_Performance_Dashboard_2023_page-2.jpg)
+![Spend and volume trends](https://raw.githubusercontent.com/sandrai05/adtech-campaign-analysis/main/Adtech_Campaign_Performance_Dashboard_2023_page-2.jpg)
 
 ### Format Performance
 
 Compares spending and performance metrics across video,
 CTV, native and display.
 
-![Format performance](Adtech_Campaign_Performance_Dashboard_2023_page-3.jpg)
+![Format performance](https://raw.githubusercontent.com/sandrai05/adtech-campaign-analysis/main/Adtech_Campaign_Performance_Dashboard_2023_page-3.jpg)
 
 ### Advertiser Category Analysis
 
 Compares category spending and conversion-related metrics
 to identify areas for further review.
 
-![Advertiser category analysis](Adtech_Campaign_Performance_Dashboard_2023_page-4.jpg)
+![Advertiser category analysis](https://raw.githubusercontent.com/sandrai05/adtech-campaign-analysis/main/Adtech_Campaign_Performance_Dashboard_2023_page-4.jpg)
 
 ### Device and Viewability Analysis
 
 Examines differences in viewability and advertising costs
 across device types.
 
-![Device and viewability analysis](Adtech_Campaign_Performance_Dashboard_2023_page-5.jpg)
+![Device and viewability analysis](https://raw.githubusercontent.com/sandrai05/adtech-campaign-analysis/main/Adtech_Campaign_Performance_Dashboard_2023_page-5.jpg)
 
 ### Cumulative Spend and Category Rankings
 
 Presents the analysis developed using common table
 expressions and window functions.
 
-![Cumulative spend and category rankings](Adtech_Campaign_Performance_Dashboard_2023_page-6.jpg)
+![Cumulative spend and category rankings](https://raw.githubusercontent.com/sandrai05/adtech-campaign-analysis/main/Adtech_Campaign_Performance_Dashboard_2023_page-6.jpg)
 
 ## Project Files
 
-- [SQL queries](./queries.sql)
-- [Synthetic dataset](./adtech_campaign_performance_2023.csv)
-- [Full report PDF](./Adtech_Campaign_Performance_Dashboard_2023.pdf)
+## Project Files
+
+- [SQL queries](https://github.com/sandrai05/adtech-campaign-analysis/blob/main/queries.sql)
+- [Synthetic dataset](https://github.com/sandrai05/adtech-campaign-analysis/blob/main/adtech_campaign_performance_2023.csv)
+- [Full report PDF](https://github.com/sandrai05/adtech-campaign-analysis/blob/main/Adtech_Campaign_Performance_Dashboard_2023.pdf)
+- [View the full GitHub repository](https://github.com/sandrai05/adtech-campaign-analysis)
 
 ## My Contributions
 
