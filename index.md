@@ -28,8 +28,9 @@ I enjoy figuring out how things work, investigating problems
 and finding practical ways to make processes better. I’m interested in using data and technology to solve business problems and improve how things work.
 
 [About Me](#about-me) |
-[Projects](#projects) |
-[Master’s Portfolio](#masters-portfolio) |
+[School Projects](#school-projects) |
+[Industry Projects](#industry-projects) |
+[Other Projects](#other-projects) |
 [Skills](#skills) |
 [Contact](#contact)
 
