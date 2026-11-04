@@ -31,12 +31,13 @@ and finding practical ways to make processes better. I’m interested in using d
 [School Projects](#school-projects) |
 [Industry Projects](#industry-projects) |
 [Other Projects](#other-projects) |
+[Education](#education) |
 [Skills](#skills) |
 [Contact](#contact)
 
 ---
 
-## About Me 
+## About Me
 
 My experience has given me a close view of the challenges people
 face when systems, processes and information do not work well
@@ -47,8 +48,11 @@ improved administrative workflows.
 I am building on that experience through graduate study and
 hands-on projects in analytics, databases and statistical modelling.
 
-I am particularly interested in business systems, implementation,
-data integration and using analysis to support better decisions.
+I am particularly interested in work that combines business
+systems and data analysis with implementing practical solutions.
+That includes understanding business needs, investigating
+problems and helping organizations improve their systems
+and processes.
 
 ## School Projects
 
@@ -92,6 +96,9 @@ investigated which clinical markers were associated
 with heart disease.
 
 [Explore the three-part project](./data601-heart-disease.html)
+
+
+## Education
 
 ### MBA Business Intelligence
 **Xavier University | 2013**
@@ -187,6 +194,77 @@ and customer segmentation.
 
 *Project code, reports and dashboard previews will be linked here
 as each case study is published.*
+
+### Master of Data Science and Analytics
+**University of Calgary | In progress, expected December 2027**  
+**Laddered pathway**
+
+Developing skills in data preparation, visualization,
+statistical analysis, predictive modelling and big data
+management through coursework and group projects.
+
+Current work uses Python, R and cloud-based databases
+to explore data, test hypotheses, build models and
+communicate findings. The program combines technical
+study with business applications, professional development
+and an internship component.
+
+Building on my background in information systems and
+business intelligence to investigate business questions,
+evaluate evidence and develop practical recommendations.
+
+### Diploma in Cyber Security
+**Lighthouse Labs | 2025**
+
+Completed practical coursework in IT and security
+fundamentals, programming for cybersecurity, defensive
+security and secure architecture.
+
+Studies included governance, risk and compliance,
+vulnerability assessment, incident response, encryption,
+detection engineering, digital forensics and threat
+intelligence, followed by a final project.
+
+Developed a foundation for considering security risks,
+data protection and incident handling when evaluating
+business systems and technology solutions.
+
+### Master of Business Administration
+**Xavier University, Williams College of Business | 2013**  
+**Major: Business Intelligence**
+
+Studied how organizations use data, information systems
+and business analysis to support management decisions.
+
+Coursework included business intelligence, database
+management, introductory data mining and information
+technology management, alongside operational analysis,
+financial reporting and managerial finance.
+
+Studies in marketing strategy, economics, business law
+and ethics, international business and global strategic
+thinking provided a broader foundation for evaluating
+business problems, weighing alternatives and developing
+recommendations.
+
+### Bachelor of Science in Business Administration
+**Drake University | 2011**  
+**Double major: Information Systems and Marketing**
+
+Combined technical and business coursework to understand
+how organizations manage information, serve customers
+and improve operations.
+
+Information Systems studies included database management,
+Visual Basic programming, website technology, network
+management, accounting information systems and e-commerce.
+Marketing studies covered research, consumer behavior,
+new product marketing and marketing management.
+
+Coursework in statistics, accounting, corporate finance,
+operations management and business strategy provided
+a foundation for analyzing business problems and
+evaluating how technology can support organizational goals.
 
 ## Skills
 
